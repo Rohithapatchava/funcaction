@@ -1,0 +1,9 @@
+D:\Rohitha\c sharp\funcaction\funcaction\obj\Debug\funcaction.csprojResolveAssemblyReference.cache
+D:\Rohitha\c sharp\funcaction\funcaction\obj\Debug\funcaction.csproj.CoreCompileInputs.cache
+D:\Rohitha\c sharp\funcaction\funcaction\bin\Debug\funcaction.exe.config
+D:\Rohitha\c sharp\funcaction\funcaction\bin\Debug\funcaction.exe
+D:\Rohitha\c sharp\funcaction\funcaction\bin\Debug\funcaction.pdb
+D:\Rohitha\c sharp\funcaction\funcaction\obj\Debug\funcaction.exe
+D:\Rohitha\c sharp\funcaction\funcaction\obj\Debug\funcaction.pdb
+D:\Rohitha\c sharp\funcaction\funcaction\bin\Debug\classlibcalculation.dll
+D:\Rohitha\c sharp\funcaction\funcaction\bin\Debug\classlibcalculation.pdb
